@@ -1,5 +1,5 @@
-while true and wait(3) do
-game.ReplicatedStorage:GetChildren()
+while wait(3) do
+
 script:Clone()
  
 end
